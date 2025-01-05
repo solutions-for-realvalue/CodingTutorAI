@@ -33,7 +33,7 @@ Streamline your JavaScript learning with CodingTutorAI, a Node.js command-line a
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/naturuplift/CodingTutorAI.git
+git clone https://github.com/solutions-for-realvalue/CodingTutorAI.git
 ```
 
 2. Navigate to the project directory:
@@ -96,4 +96,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues with
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-[MIT]: <https://github.com/naturuplift/CodingTutorAI/blob/main/LICENSE>
+[MIT]: <https://github.com/solutions-for-realvalue/CodingTutorAI/blob/main/LICENSE>
