@@ -21,11 +21,11 @@
 - [Installation](#-installation)
 - [OpenAI API Key Setup](#-openai-api-key-setup)
 - [Usage](#-usage)
-- [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
-- [About](#%F0%9F%92%A1-about)
-- [Connect & Collaborate](#connect--collaborate)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [About](#-about)
+- [Connect & Collaborate](#-connect--collaborate)
 
 ---
 
