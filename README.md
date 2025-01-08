@@ -13,6 +13,22 @@
 
 ---
 
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [OpenAI API Key Setup](#-openai-api-key-setup)
+- [Usage](#-usage)
+- [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
+- [Contributing](#%F0%9F%A4%9D-contributing)
+- [License](#%F0%9F%93%9C-license)
+- [About](#%F0%9F%92%A1-about)
+- [Connect & Collaborate](#connect--collaborate)
+
+---
+
 ## 🌟 Overview
 
 **CodingTutorAI** is your personal JavaScript consultant, a Node.js command-line application designed to simplify and enhance your learning experience. Powered by OpenAI's GPT-4, this tool provides precise, insightful answers to your JavaScript-related questions, from basic concepts to advanced topics.
@@ -27,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🔨 Tech Stack
 
 - **Programming Language**: JavaScript (ES6)
 - **Runtime**: Node.js
@@ -84,7 +100,7 @@ Ask your JavaScript questions and receive instant responses to enhance your lear
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### Example Question
 
@@ -145,6 +161,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ---
 
-### Connect & Collaborate
+### 🤝 Connect & Collaborate
 
 Have questions or suggestions? Feel free to open an issue or submit a pull request. Let’s make learning JavaScript more accessible and engaging!
+
