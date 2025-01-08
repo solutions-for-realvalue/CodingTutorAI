@@ -15,7 +15,7 @@
 
 ## 🌟 Overview
 
-**CodingTutorAI** is your personal JavaScript consultant, a Node.js command-line application designed to simplify and enhance your learning experience. Powered by OpenAI's GPT-3-turbo, this tool provides precise, insightful answers to your JavaScript-related questions, from basic concepts to advanced topics.
+**CodingTutorAI** is your personal JavaScript consultant, a Node.js command-line application designed to simplify and enhance your learning experience. Powered by OpenAI's GPT-4, this tool provides precise, insightful answers to your JavaScript-related questions, from basic concepts to advanced topics.
 
 ---
 
@@ -31,7 +31,7 @@
 
 - **Programming Language**: JavaScript (ES6)
 - **Runtime**: Node.js
-- **API**: OpenAI's GPT-3-turbo
+- **API**: OpenAI's GPT-4
 - **Dependencies**: [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4), [LangChain](https://js.langchain.com/docs/)
 - **Version Control**: Git and GitHub
 
@@ -77,7 +77,7 @@
 Launch the application:
 
 ```bash
-node app.js
+node script.js
 ```
 
 Ask your JavaScript questions and receive instant responses to enhance your learning journey.
