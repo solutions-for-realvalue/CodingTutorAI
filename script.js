@@ -42,7 +42,7 @@ const model = new OpenAI({ // Initialize OpenAI model
   // the model property represents which language model will be used.
   // For this project, we will use the gpt-3.5-turbo model because
   // it’s optimized for chat and the best available option.
-  model: 'gpt-3.5-turbo'
+  model: 'gpt-4'
 });
 // console.log({ model }); // confirm connection to OpenAI
 
